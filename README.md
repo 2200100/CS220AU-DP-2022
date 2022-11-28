@@ -25,7 +25,9 @@ How to use this GitHub repository as a template for your submission, including h
 <br>
 
 ## Log
-
+- 2022-11-28 Organized notes.
+- 2022-11-27 Research about biotechnology.
+- 2022-10-20 found an existential risk and related it with digital identities.
 - 2022-10-17 amended the repository to work with to be aligned with the focus on how the module is run in 2022 (e.g. regarding the theme)
 - 2022-10-10 based on the last year's portfolio template, I created a draft for a new template
 - 2021-10-23 demonstrating VSC on computer. testing on another computer as well. testing on mac. testing GitHub Desktop. 
@@ -43,5 +45,7 @@ How to use this GitHub repository as a template for your submission, including h
 <br>
 
 ## TODO
-### in week 3
-- help students fork the repo and understand its code structure, etc. 
+### in week 9
+- peer assesment.
+- work on the website.
+- more research.
