@@ -1,4 +1,4 @@
-# Biotechnology as an existential risk to our digital identities
+# Biotechnology as an existential risk to digital identities
 
 Use [Markdown language](https://guides.github.com/features/mastering-markdown/) to add information to your website. 
 
