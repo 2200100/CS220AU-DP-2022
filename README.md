@@ -25,6 +25,8 @@ How to use this GitHub repository as a template for your submission, including h
 <br>
 
 ## Log
+- 2022-12-09 Work on the website.
+- 2022-12-07 Research about biotechnology related with digital identities.
 - 2022-11-28 Organized notes.
 - 2022-11-27 Research about biotechnology.
 - 2022-10-20 found an existential risk and related it with digital identities.
@@ -46,6 +48,6 @@ How to use this GitHub repository as a template for your submission, including h
 
 ## TODO
 ### in week 9
-- peer assesment.
-- work on the website.
-- more research.
+- Peer assesment.
+- Organize the website.
+- Pass the research notes made in Microsoft Word to my digital portfolio.
