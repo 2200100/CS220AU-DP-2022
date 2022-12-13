@@ -29,6 +29,9 @@ Make sure you check out the [Markdown language](https://guides.github.com/featur
 
 
 
+
+
+
 EXISTENTIAL RISK: BIOTHECNOLOGY
 
 
@@ -38,14 +41,12 @@ Have you ever thought about the fact that your fingerprints are wandering around
 
 
 Pros:
-
 Golden biotechnology
 
 Also referred to as bioinformatics, it involves the application of computational biology. Its objective is to address biological problems through computational techniques, allowing the organization, analysis, and interpretation of large volumes of information and biological data.
 
 
 Cons:
-
 Dark biotechnology
 
 Black or dark biotechnology is that associated with illegal and harmful practices for both humanity and the planet, such as bioterrorism or the production of biological weapons through the manipulation of microorganisms and toxins that cause disease, poisoning and death.
