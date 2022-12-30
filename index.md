@@ -39,16 +39,18 @@ What is an existential risk? “By “existential risks” (E.R.) we mean, rough
 
 Have you ever thought about the fact that your fingerprints are wandering around the whole world, and you don’t even notice? Or that anything could be easily cloned with the smallest gene? Biotechnology has been an issue for the last few years, and even though it is a great step for humanity, it also has its risks; but what are those risks? From the development of vaccines, to processes to recover ecosystems damaged by human activity, the uses and applications of biotechnology cover a wide spectrum of possibilities, as much as threats. 
 
+This article will first of all focus on biotechnology in general, then introduce it as an existential risk, then introduce digital identities, and finally relate it to digital identities, and how it is a risk for them as well. 
 
-Pros:
-Golden biotechnology
+Biotechnology is mostly the use of living organisms, as well as their parts or by-products, in industrial uses and applications. Biotechnology covers many areas, ranging from vaccines to developing new sources of biofuel, brewing beer, etc.
 
-Also referred to as bioinformatics, it involves the application of computational biology. Its objective is to address biological problems through computational techniques, allowing the organization, analysis, and interpretation of large volumes of information and biological data.
+Biotechnology has multiple applications: environmental, bio sanitary, agricultural and livestock, and industrial. It is used to produce medicines, cloning, DNA analysis, industrial fermentation, vaccine production, genetic improvement, and even in forensics. Biotechnology is divided by colour: green, red, white, gold, grey, blue, yellow, violet, brown, and dark.
 
+![https://1.bp.blogspot.com/-mJLYkO6SKmo/YJACRXYJB7I/AAAAAAAAAXk/NwZR3hSJHksvx18JGBvZ6P0SFwlt3N44QCNcBGAsYHQ/s1366/different-colors-of-Biotechnology-fields.jpg![image](https://user-images.githubusercontent.com/115997940/210091910-e8e725e8-748f-480d-9672-747e23a95723.png)]
 
-Cons:
-Dark biotechnology
+In this article we will focus mainly on gold, violet and black biotechnology. Gold biotechnology is in charge of bioinformatics, informatics, chip technology and biotechnology, this being a great help in technological advances as they are not simply areas in which it is developed, but rather, it is part of the future that awaits us. 
 
-Black or dark biotechnology is that associated with illegal and harmful practices for both humanity and the planet, such as bioterrorism or the production of biological weapons through the manipulation of microorganisms and toxins that cause disease, poisoning and death.
+On the other hand, violet biotechnology focuses on the study of the legal aspects surrounding this science, as biotechnology is controversial and can be dangerous. That is why violet biotechnology exists, to control and regulate it, so that all the information that exists in the world remains safe. 
+
+Black biotechnology is the opposite, it is in charge of producing biological warfare and also includes bioterrorism, where pathogenic, virulent and resistant micro-organisms are researched. It is the nest of biotechnological weapons.
 
 
