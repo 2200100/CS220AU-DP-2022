@@ -45,7 +45,7 @@ Biotechnology is mostly the use of living organisms, as well as their parts or b
 
 Biotechnology has multiple applications: environmental, bio sanitary, agricultural and livestock, and industrial. It is used to produce medicines, cloning, DNA analysis, industrial fermentation, vaccine production, genetic improvement, and even in forensics. Biotechnology is divided by colour: green, red, white, gold, grey, blue, yellow, violet, brown, and dark.
 
-https://1.bp.blogspot.com/-mJLYkO6SKmo/YJACRXYJB7I/AAAAAAAAAXk/NwZR3hSJHksvx18JGBvZ6P0SFwlt3N44QCNcBGAsYHQ/s1366/different-colors-of-Biotechnology-fields.jpg![image](https://user-images.githubusercontent.com/115997940/210092055-4d1b4dbd-b8a2-4371-a1b7-cba649695cfd.png)
+![https://1.bp.blogspot.com/-mJLYkO6SKmo/YJACRXYJB7I/AAAAAAAAAXk/NwZR3hSJHksvx18JGBvZ6P0SFwlt3N44QCNcBGAsYHQ/s1366/different-colors-of-Biotechnology-fields.jpg![image](https://user-images.githubusercontent.com/115997940/210092055-4d1b4dbd-b8a2-4371-a1b7-cba649695cfd.png)]
 
 
 In this article we will focus mainly on gold, violet and black biotechnology. Gold biotechnology is in charge of bioinformatics, informatics, chip technology and biotechnology, this being a great help in technological advances as they are not simply areas in which it is developed, but rather, it is part of the future that awaits us. 
