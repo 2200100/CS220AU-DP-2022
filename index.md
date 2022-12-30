@@ -54,4 +54,15 @@ On the other hand, violet biotechnology focuses on the study of the legal aspect
 
 Black biotechnology is the opposite, it is in charge of producing biological warfare and also includes bioterrorism, where pathogenic, virulent and resistant micro-organisms are researched. It is the nest of biotechnological weapons.
 
+But how does biotechnology relate to existential risks? Can it? Let me tell you yes, and I will show you. As mentioned above, existential risks are risks that threaten human existence, such as climate change, nuclear warfare, artificial intelligence, and in this case, biotechnology. Yes, but how? Well, have you ever heard of digital identities? These are the set of information that, together, project a reputation about each individual on the internet. To a large extent, it is made up of our digital footprint, and the data we constantly generate, whether consciously or unconsciously. Data such as: email address, date of birth, bank details, and e-commerce shopping habits. 
+
+"In real life, our tastes, preferences, personality, behaviour, physical traits, etc. mark who we are. This personal profile is also created in the virtual world, and we know it as digital identity ” (Santander, 2022)
+
+There are many advantages of all that digital identities entail, such as managing everything from your mobile phone, wallet, transportation, music, shopping, transfers, etc. But just as there are advantages, there are disadvantages, and they are a risk that has to be prevented, since all the information travels through many places, and sometimes we don't even notice it. There are many threats we are exposed to on a daily basis that put our identity at risk. To reduce these risks, we should take into account the following recommendations, which range from what is shared on social networks, to keeping our operating system always updated. 
+
+1.	Protect our data and electronic devices:
+2.	Be discreet about what you share on the internet, as well as reviewing the privacy settings on your accounts.
+3.	Read carefully before clicking on unexpected messages.
+4.	Create strong, secure passwords.
+5.	Report suspected identity theft.
 
