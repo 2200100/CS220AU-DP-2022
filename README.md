@@ -25,6 +25,7 @@ How to use this GitHub repository as a template for your submission, including h
 <br>
 
 ## Log
+- 2022-12-31 Organize the website with everything settled.
 - 2022-12-30 Organize the website.
 - 2022-12-30 Pass the research notes made in Microsoft Word to my digital portfolio.
 - 2022-12-09 Work on the website.
@@ -51,6 +52,5 @@ How to use this GitHub repository as a template for your submission, including h
 ## TODO
 ### before deadline.
 - Peer assesment.
-- Organize the website with everything settled.
 - Upload to FASER.
 
