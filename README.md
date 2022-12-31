@@ -51,6 +51,8 @@ How to use this GitHub repository as a template for your submission, including h
 
 ## TODO
 ### before deadline.
+- Self assesment.
 - Peer assesment.
+- dp-checklist.
 - Upload to FASER.
 
