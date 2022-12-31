@@ -35,7 +35,7 @@ Make sure you check out the [Markdown language](https://guides.github.com/featur
 # **BIOTECHNOLOGY AS AN EXISTENTIAL RISK TO DIGITAL IDENTITIES**
 
 
-What is an existential risk? [“By “existential risks” (E.R.) we mean, roughly, catastrophic risks to our species that are “our fault,” in the sense that they arise from human technologies” mentions Huw Price in an article by The New York Times.](https://archive.nytimes.com/opinionator.blogs.nytimes.com/2013/01/27/cambridge-cabs-and-copenhagen-my-route-to-existential-risk/?searchResultPosition=1) Biotechnology could be hard to link as an existential risk, but when you analyze it in depth, you realize that biotechnology includes many things, many as technology itself.
+What is an existential risk? “By “existential risks” (E.R.) we mean, roughly, catastrophic risks to our species that are “our fault,” in the sense that they arise from human technologies” mentions [Huw Price in an article by The New York Times](https://archive.nytimes.com/opinionator.blogs.nytimes.com/2013/01/27/cambridge-cabs-and-copenhagen-my-route-to-existential-risk/?searchResultPosition=1). Biotechnology could be hard to link as an existential risk, but when you analyze it in depth, you realize that biotechnology includes many things, many as technology itself.
 
 Have you ever thought about the fact that your fingerprints are wandering around the whole world, and you don’t even notice? Or that anything could be easily cloned with the smallest gene? Biotechnology has been an issue for the last few years, and even though it is a great step for humanity, it also has its risks; but what are those risks? From the development of vaccines, to processes to recover ecosystems damaged by human activity, the uses and applications of biotechnology cover a wide spectrum of possibilities, as much as threats. 
 
@@ -58,7 +58,7 @@ On the other hand, violet biotechnology focuses on the study of the legal aspect
 Black biotechnology is the opposite, it is in charge of producing biological warfare and also includes bioterrorism, where pathogenic, virulent and resistant micro-organisms are researched. It is the nest of biotechnological weapons.
 
 
-[## Advantages and Disadvantages of Biotechnology](https://nanova.org/que-es-la-biotecnologia/)
+## [Advantages and Disadvantages of Biotechnology](https://nanova.org/que-es-la-biotecnologia/)
 
 **Advantages:** ☑️ 
 
@@ -82,7 +82,7 @@ Black biotechnology is the opposite, it is in charge of producing biological war
 
 But how does biotechnology relate to existential risks? Can it? Let me tell you yes, and I will show you. As mentioned above, existential risks are risks that threaten human existence, such as climate change, nuclear warfare, artificial intelligence, and in this case, biotechnology. Yes, but how? Well, have you ever heard of digital identities? These are the set of information that, together, project a reputation about each individual on the internet. To a large extent, it is made up of our digital footprint, and the data we constantly generate, whether consciously or unconsciously. Data such as: email address, date of birth, bank details, and e-commerce shopping habits. 
 
-["In real life, our tastes, preferences, personality, behaviour, physical traits, etc. mark who we are. This personal profile is also created in the virtual world, and we know it as digital identity ” (Santander, 2022)](https://www.santander.com/es/stories/que-es-la-identidad-digital)
+"In real life, our tastes, preferences, personality, behaviour, physical traits, etc. mark who we are. This personal profile is also created in the virtual world, and we know it as digital identity ” [(Santander, 2022)](https://www.santander.com/es/stories/que-es-la-identidad-digital)
 
 There are many advantages of all that digital identities entail, such as managing everything from your mobile phone, wallet, transportation, music, shopping, transfers, etc. But just as there are advantages, there are disadvantages, and they are a risk that has to be prevented, since all the information travels through many places, and sometimes we don't even notice it. There are many threats we are exposed to on a daily basis that put our identity at risk. To reduce these risks, we should take into account the following recommendations, which range from what is shared on social networks, to keeping our operating system always updated. 
 
