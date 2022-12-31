@@ -69,3 +69,22 @@ Of course, biotechnology has many good things, but it is important to be aware t
 
 On the other hand, bioterrorism is another crucial problem, you never know what will happen and what they are planning, many things can be altered and cause new diseases or viruses, and we have seen this before, we have lived it. So, when you think that biotechnology is the future and brings all good things, don't rule out that something bad can always happen and that people's intentions are not always good. Always take care of your data and keep it safe, before accessing any website make sure it is trustworthy.
 
+
+
+
+
+
+
+
+## References
+
+Huw Price, 2013. The New York Times. https://archive.nytimes.com/opinionator.blogs.nytimes.com/2013/01/27/cambridge-cabs-and-copenhagen-my-route-to-existential-risk/?searchResultPosition=1
+
+Gupta, Aakriti, 2018. Major Risks of Modern Biotechnology. Biotechnology Notes. https://www.biotechnologynotes.com/biotechnology/modern-agriculture/4-major-risks-of-modern-biotechnology/881  
+
+Santander, 2022. ¿Qué es la identidad digital?
+https://www.santander.com/es/stories/que-es-la-identidad-digital
+
+Villanueva, Ana. 2022. ¿Qué es la Biotecnología? Ventajas y Desventajas. NANOVA.
+https://nanova.org/que-es-la-biotecnologia/  
+
