@@ -92,3 +92,10 @@ There are many advantages of all that digital identities entail, such as managin
 4.	Create strong, secure passwords.
 5.	Report suspected identity theft.
 
+
+## How does Biotechnology threaten my digital identity?
+
+Now yes, after a brief introduction to what each concept is, let's focus on biotechnology being a risk to digital identities. As mentioned above, one of the downsides of biotechnology is that it turns human life into a commodity, and how does this affect my digital identity, you may ask. Well, nowadays, our personal information is all over the place, including our fingerprints, since not many years ago, biometrics were implemented in mobile phones, which really made it easier for many things, but on the other hand, our fingerprint became part of the cloud. 
+
+The problem is the misuse of what hackers can do, they have all the information they need in a single piece of data, because the fingerprint is not only used for the mobile phone, but it is also in the database of the countries, in credit cards, banks, etc. so there we have a problem. The cloning of many things stems from there, as we often don't realise what we are accepting, as we never take the time to read the terms and conditions of the websites we visit, we simply trust them, but we are often the ones who give permission to the websites to use our information as they please.
+
