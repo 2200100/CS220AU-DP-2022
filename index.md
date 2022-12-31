@@ -35,7 +35,7 @@ Make sure you check out the [Markdown language](https://guides.github.com/featur
 # **BIOTECHNOLOGY AS AN EXISTENTIAL RISK TO DIGITAL IDENTITIES**
 
 
-What is an existential risk? “By “existential risks” (E.R.) we mean, roughly, catastrophic risks to our species that are “our fault,” in the sense that they arise from human technologies” mentions Huw Price in an article by The New York Times. Biotechnology could be hard to link as an existential risk, but when you analyze it in depth, you realize that biotechnology includes many things, many as technology itself.
+What is an existential risk? [“By “existential risks” (E.R.) we mean, roughly, catastrophic risks to our species that are “our fault,” in the sense that they arise from human technologies” mentions Huw Price in an article by The New York Times]([url](https://archive.nytimes.com/opinionator.blogs.nytimes.com/2013/01/27/cambridge-cabs-and-copenhagen-my-route-to-existential-risk/?searchResultPosition=1)). Biotechnology could be hard to link as an existential risk, but when you analyze it in depth, you realize that biotechnology includes many things, many as technology itself.
 
 Have you ever thought about the fact that your fingerprints are wandering around the whole world, and you don’t even notice? Or that anything could be easily cloned with the smallest gene? Biotechnology has been an issue for the last few years, and even though it is a great step for humanity, it also has its risks; but what are those risks? From the development of vaccines, to processes to recover ecosystems damaged by human activity, the uses and applications of biotechnology cover a wide spectrum of possibilities, as much as threats. 
 
@@ -99,6 +99,10 @@ Now yes, after a brief introduction to what each concept is, let's focus on biot
 
 The problem is the misuse of what hackers can do, they have all the information they need in a single piece of data, because the fingerprint is not only used for the mobile phone, but it is also in the database of the countries, in credit cards, banks, etc. so there we have a problem. The cloning of many things stems from there, as we often don't realise what we are accepting, as we never take the time to read the terms and conditions of the websites we visit, we simply trust them, but we are often the ones who give permission to the websites to use our information as they please.
 
-Of course, biotechnology has many good things, but it is important to be aware that it does affect us, and not only in the area of health and food mutations, but also our digital identity, it is necessary to be aware of what we accept on the internet, because not everything is safe and many things can be a farce. Yes, the problem is them for doing this kind of evil, but we are also to blame for being a bit careless and lazy to inform ourselves better.
+Of course, biotechnology has many good things, but it is important to be aware that it does affect us, and not only in the area of health and food mutations, but also our digital identity, it is necessary to be aware of what we accept on the internet, because not everything is safe, and many things can be a farce. Yes, the problem is them for doing this kind of evil, but we are also to blame for being a bit careless and lazy to inform ourselves better.
 
 On the other hand, bioterrorism is another crucial problem, you never know what will happen and what they are planning, many things can be altered and cause new diseases or viruses, and we have seen this before, we have lived it. So, when you think that biotechnology is the future and brings all good things, don't rule out that something bad can always happen and that people's intentions are not always good. Always take care of your data and keep it safe, before accessing any website make sure it is trustworthy.
+
+
+References:
+
