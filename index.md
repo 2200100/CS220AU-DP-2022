@@ -32,7 +32,7 @@ Make sure you check out the [Markdown language](https://guides.github.com/featur
 
 
 
-# **EXISTENTIAL RISK: BIOTHECNOLOGY**
+# **BIOTECHNOLOGY AS AN EXISTENTIAL RISK TO DIGITAL IDENTITIES**
 
 
 What is an existential risk? “By “existential risks” (E.R.) we mean, roughly, catastrophic risks to our species that are “our fault,” in the sense that they arise from human technologies” mentions Huw Price in an article by The New York Times. Biotechnology could be hard to link as an existential risk, but when you analyze it in depth, you realize that biotechnology includes many things, many as technology itself.
