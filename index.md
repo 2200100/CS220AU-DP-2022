@@ -63,17 +63,26 @@ Black biotechnology is the opposite, it is in charge of producing biological war
 **Advantages:**
 
 •	Can help improve health
+
 •	Flexibility in the food chain
+
 •	Opportunities for medical breakthroughs
+
 •	Preserves resources
+
 •	Reduces the rate of disease
+
 
 **Disadvantages:**
 
 •	Economic instability
+
 •	Can be used as a biological weapon
+
 •	Can be unethical
+
 •	Research field with many unknowns
+
 •	Turns human life into a commodity
 
 
