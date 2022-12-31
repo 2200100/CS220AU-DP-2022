@@ -58,6 +58,25 @@ On the other hand, violet biotechnology focuses on the study of the legal aspect
 Black biotechnology is the opposite, it is in charge of producing biological warfare and also includes bioterrorism, where pathogenic, virulent and resistant micro-organisms are researched. It is the nest of biotechnological weapons.
 
 
+## Advantages and Disadvantages of Biotechnology
+
+**Advantages:**
+
+•	Can help improve health
+•	Flexibility in the food chain
+•	Opportunities for medical breakthroughs
+•	Preserves resources
+•	Reduces the rate of disease
+
+**Disadvantages:**
+
+•	Economic instability
+•	Can be used as a biological weapon
+•	Can be unethical
+•	Research field with many unknowns
+•	Turns human life into a commodity
+
+
 ## Existential risks and Digital Identities
 
 But how does biotechnology relate to existential risks? Can it? Let me tell you yes, and I will show you. As mentioned above, existential risks are risks that threaten human existence, such as climate change, nuclear warfare, artificial intelligence, and in this case, biotechnology. Yes, but how? Well, have you ever heard of digital identities? These are the set of information that, together, project a reputation about each individual on the internet. To a large extent, it is made up of our digital footprint, and the data we constantly generate, whether consciously or unconsciously. Data such as: email address, date of birth, bank details, and e-commerce shopping habits. 
