@@ -41,6 +41,9 @@ Have you ever thought about the fact that your fingerprints are wandering around
 
 This article will first of all focus on biotechnology in general, then introduce it as an existential risk, then introduce digital identities, and finally relate it to digital identities, and how it is a risk for them as well. 
 
+
+## Biotechnology and its applications
+
 Biotechnology is mostly the use of living organisms, as well as their parts or by-products, in industrial uses and applications. Biotechnology covers many areas, ranging from vaccines to developing new sources of biofuel, brewing beer, etc.
 
 Biotechnology has multiple applications: environmental, bio sanitary, agricultural and livestock, and industrial. It is used to produce medicines, cloning, DNA analysis, industrial fermentation, vaccine production, genetic improvement, and even in forensics. Biotechnology is divided by colour: green, red, white, gold, grey, blue, yellow, violet, brown, and dark.
@@ -53,6 +56,9 @@ In this article we will focus mainly on gold, violet and black biotechnology. Go
 On the other hand, violet biotechnology focuses on the study of the legal aspects surrounding this science, as biotechnology is controversial and can be dangerous. That is why violet biotechnology exists, to control and regulate it, so that all the information that exists in the world remains safe. 
 
 Black biotechnology is the opposite, it is in charge of producing biological warfare and also includes bioterrorism, where pathogenic, virulent and resistant micro-organisms are researched. It is the nest of biotechnological weapons.
+
+
+## Existential risks and Digital Identities
 
 But how does biotechnology relate to existential risks? Can it? Let me tell you yes, and I will show you. As mentioned above, existential risks are risks that threaten human existence, such as climate change, nuclear warfare, artificial intelligence, and in this case, biotechnology. Yes, but how? Well, have you ever heard of digital identities? These are the set of information that, together, project a reputation about each individual on the internet. To a large extent, it is made up of our digital footprint, and the data we constantly generate, whether consciously or unconsciously. Data such as: email address, date of birth, bank details, and e-commerce shopping habits. 
 
