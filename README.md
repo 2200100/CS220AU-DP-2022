@@ -23,6 +23,7 @@ This portfolio contains the following:
 <br>
 
 ## Log
+- 2023-01-06 dp-checklist.
 - 2023-01-06 Self assesment.
 - 2023-01-06 Peer assesment.
 - 2022-12-31 Organize the website with everything settled.
@@ -52,6 +53,5 @@ This portfolio contains the following:
 ## TODO
 ### before deadline.
 
-- dp-checklist.
 - Upload to FASER.
 
