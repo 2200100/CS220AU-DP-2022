@@ -7,12 +7,14 @@ This GitHub repository is the template for the [CS220AU](https://github.com/khof
 - web-design with [Markdown language](https://guides.github.com/features/mastering-markdown/) and
 - evaluation with the `assessment.md` and the `dp-checklist.md` files. 
 
+This website mainly focuses on biotechnology. Its approach is how it can be considered an existential risk to digital identities, but it also provides concept definitions and examples to make everything easier to understand. It is divided into four sections: biotechnology and its applications; advantages and disadvantages; existential risks and digital identities; and how does biotechnology threaten my digital identity?
+
 The URL of the website can be found in the sidebar, under 'About'. The homepage uses the information in the `index.md` file.
 
 <br>
 
 ## Portfolio items
-The portfolio you submit needs to contain the following:
+This portfolio contains the following:
 
 1. **website** (80% of your overall mark) exploring the theme given.
 2. **self-and peer-assessment** (10% of your overall mark) using the marking rubric in the `assessment.md` file.
