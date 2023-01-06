@@ -16,6 +16,7 @@ Biotechnology has multiple applications: environmental, bio sanitary, agricultur
 
 [![image](https://user-images.githubusercontent.com/115997940/210092215-ee1bb264-d1e1-40f7-b378-58c56f698ad2.png)](https://www.biotechbug.in/2021/05/colourful-types-of-biotechnology.html)
 
+*<sub>BioTechBug, 2022. Colourful Types of Biotechnology.</sub>*
 
 In this article we will focus mainly on gold, violet and black biotechnology. Gold biotechnology is in charge of bioinformatics, informatics, chip technology and biotechnology, this being a great help in technological advances as they are not simply areas in which it is developed, but rather, it is part of the future that awaits us. 
 
@@ -78,7 +79,7 @@ On the other hand, bioterrorism is another crucial problem, you never know what 
 
 ## References
 
-Huw Price, 2013. The New York Times. https://archive.nytimes.com/opinionator.blogs.nytimes.com/2013/01/27/cambridge-cabs-and-copenhagen-my-route-to-existential-risk/?searchResultPosition=1
+Huw Price, 2013. The New York Times. https://nyti.ms/3vIUNSx 
 
 Gupta, Aakriti, 2018. Major Risks of Modern Biotechnology. Biotechnology Notes. https://www.biotechnologynotes.com/biotechnology/modern-agriculture/4-major-risks-of-modern-biotechnology/881  
 
@@ -87,4 +88,6 @@ https://www.santander.com/es/stories/que-es-la-identidad-digital
 
 Villanueva, Ana. 2022. ¿Qué es la Biotecnología? Ventajas y Desventajas. NANOVA.
 https://nanova.org/que-es-la-biotecnologia/  
+
+BioTechBug, 2022. Colourful Types of Biotechnology. https://www.biotechbug.in/2021/05/colourful-types-of-biotechnology.html
 
