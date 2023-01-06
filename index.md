@@ -1,7 +1,7 @@
 # **BIOTECHNOLOGY AS AN EXISTENTIAL RISK TO DIGITAL IDENTITIES**
 
 
-What is an existential risk? “By “existential risks” (E.R.) we mean, roughly, catastrophic risks to our species that are “our fault,” in the sense that they arise from human technologies” mentions [Huw Price in an article by The New York Times](https://archive.nytimes.com/opinionator.blogs.nytimes.com/2013/01/27/cambridge-cabs-and-copenhagen-my-route-to-existential-risk/?searchResultPosition=1). Biotechnology could be hard to link as an existential risk, but when you analyze it in depth, you realize that biotechnology includes many things, many as technology itself.
+“By 'existential risks' (E.R.) we mean, roughly, catastrophic risks to our species that are 'our fault,' in the sense that they arise from human technologies” mentions [Huw Price in an article by The New York Times](https://archive.nytimes.com/opinionator.blogs.nytimes.com/2013/01/27/cambridge-cabs-and-copenhagen-my-route-to-existential-risk/?searchResultPosition=1). Biotechnology could be hard to link as an existential risk, but when you analyze it in depth, you realize that biotechnology includes many things, many as technology itself.
 
 Have you ever thought about the fact that your fingerprints are wandering around the whole world, and you don’t even notice? Or that anything could be easily cloned with the smallest gene? Biotechnology has been an issue for the last few years, and even though it is a great step for humanity, it also has its risks; but what are those risks? From the development of vaccines, to processes to recover ecosystems damaged by human activity, the uses and applications of biotechnology cover a wide spectrum of possibilities, as much as threats. 
 
@@ -59,7 +59,7 @@ There are many advantages of all that digital identities entail, such as managin
 5.	Report suspected identity theft.
 
 
-## How does Biotechnology threaten my digital identity?
+## How does biotechnology threaten my digital identity?
 
 Now yes, after a brief introduction to what each concept is, let's focus on biotechnology being a risk to digital identities. As mentioned above, one of the downsides of biotechnology is that it turns human life into a commodity, and how does this affect my digital identity, you may ask. Well, nowadays, our personal information is all over the place, including our fingerprints, since not many years ago, biometrics were implemented in mobile phones, which really made it easier for many things, but on the other hand, our fingerprint became part of the cloud. 
 
