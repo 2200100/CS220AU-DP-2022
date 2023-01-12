@@ -23,6 +23,7 @@ This portfolio contains the following:
 <br>
 
 ## Log
+- 2023-01-12 Upload to FASER.
 - 2023-01-06 dp-checklist.
 - 2023-01-06 Self assesment.
 - 2023-01-06 Peer assesment.
@@ -51,7 +52,3 @@ This portfolio contains the following:
 <br>
 
 ## TODO
-### before deadline.
-
-- Upload to FASER.
-
